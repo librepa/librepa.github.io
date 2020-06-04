@@ -1,0 +1,5 @@
+<map id="repa::util::simple_variant::as" name="repa::util::simple_variant::as">
+<area shape="rect" id="node1" title="Returns the held object as &quot;GetType&quot;." alt="" coords="5,39,124,80"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1simple__variant.html#aa72cb7f6487310038e06d5fdb5616348" title="Returns true iff the object holds an element of the first template parameter type." alt="" coords="180,5,299,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1simple__variant.html#ac5c0c46074203cd82f4fa98f6b6e7c50" title="Returns true iff the object holds an element of the second template parameter type." alt="" coords="172,71,307,112"/>
+</map>

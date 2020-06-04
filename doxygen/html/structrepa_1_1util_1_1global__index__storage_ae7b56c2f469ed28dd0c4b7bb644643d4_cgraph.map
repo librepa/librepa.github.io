@@ -1,0 +1,4 @@
+<map id="repa::util::global_index_storage::push_back_ghost" name="repa::util::global_index_storage::push_back_ghost">
+<area shape="rect" id="node1" title="Registers a new ghost cell index." alt="" coords="5,5,152,61"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a3de17bf87d964ff2d9d630011ddafb43" title="Returns true if this store holds a global cell index as local or ghost index." alt="" coords="200,5,349,61"/>
+</map>

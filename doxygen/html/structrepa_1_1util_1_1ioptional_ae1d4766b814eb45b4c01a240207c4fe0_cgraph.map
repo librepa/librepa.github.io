@@ -1,0 +1,5 @@
+<map id="repa::util::ioptional::operator*" name="repa::util::ioptional::operator*">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,133,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1ioptional.html#a962177b9b0ee1ed6973a800ea35d565d" title="Checked access only on debug builds." alt="" coords="181,5,309,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1ioptional.html#a16932c24ccdac838c7a631cd4e91f16c" title="Returns if a value is held." alt="" coords="357,5,485,47"/>
+</map>

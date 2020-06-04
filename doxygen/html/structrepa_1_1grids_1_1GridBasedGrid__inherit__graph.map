@@ -1,0 +1,5 @@
+<map id="repa::grids::GridBasedGrid" name="repa::grids::GridBasedGrid">
+<area shape="rect" id="node1" title="Implements a grid&#45;based load&#45;balancing scheme." alt="" coords="5,155,181,181"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1GloMethod.html" title=" " alt="" coords="16,80,171,107"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1ParallelLCGrid.html" title="Interface for a parallel linked&#45;cell grid implementation." alt="" coords="6,5,181,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="repa::grids::GloMethod::position_to_cell_index" name="repa::grids::GloMethod::position_to_cell_index">
+<area shape="rect" id="node1" title="Returns the index of a local cell at position &quot;pos&quot;." alt="" coords="5,13,164,54"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#abc53be5c8e5584deda6f218bb2e5b71e" title="Returns a local cell index of a global cell index." alt="" coords="212,13,416,54"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1global__index__storage.html#a7bf12b5a7f978631da073935709b496b" title="Returns the local or ghost index of a global cell index." alt="" coords="464,5,631,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="repa::util::box_global_index_storage::as_ghost_index" name="repa::util::box_global_index_storage::as_ghost_index">
+<area shape="rect" id="node1" title="Converts a global index to a local one." alt="" coords="263,5,472,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1box__global__index__storage.html#ad68b9b6f9ec2b89045b30db0e12202bd" title="Returns a ghost index from a 3d cell index." alt="" coords="5,5,215,47"/>
+</map>

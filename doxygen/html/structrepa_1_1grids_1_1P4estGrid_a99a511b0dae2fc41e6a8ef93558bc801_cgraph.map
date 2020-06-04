@@ -1,0 +1,4 @@
+<map id="repa::grids::P4estGrid::cell_neighbor_index" name="repa::grids::P4estGrid::cell_neighbor_index">
+<area shape="rect" id="node1" title="Returns the index of a cell neighboring a given cell (by index)." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1P4estGrid.html#ac7c9da13cd66d888b003d39cb973df9b" title="Returns the number of local cells." alt="" coords="203,5,352,47"/>
+</map>

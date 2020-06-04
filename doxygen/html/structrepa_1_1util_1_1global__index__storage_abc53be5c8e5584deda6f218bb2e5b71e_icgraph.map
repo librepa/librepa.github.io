@@ -1,0 +1,5 @@
+<map id="repa::util::global_index_storage::as_local_index" name="repa::util::global_index_storage::as_local_index">
+<area shape="rect" id="node1" title="Returns a local cell index of a global cell index." alt="" coords="212,50,416,91"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a8e52139d6e518821c9224e2ddcdb2eb2" title="Returns a lambda that resolves global to local positions while ensuring that the indices are purely l..." alt="" coords="9,5,161,61"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1GloMethod.html#a70614e9d6664463fe174c63c09eca232" title="Returns the index of a local cell at position &quot;pos&quot;." alt="" coords="5,86,164,127"/>
+</map>

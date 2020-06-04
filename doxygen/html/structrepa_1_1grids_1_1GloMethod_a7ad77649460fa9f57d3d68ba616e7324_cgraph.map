@@ -1,0 +1,4 @@
+<map id="repa::grids::GloMethod::global_hash" name="repa::grids::GloMethod::global_hash">
+<area shape="rect" id="node1" title="Returns a globally unique id for a local cell." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a35cf667db0a067d858af1fc0bc132a76" title="Returns the associated global index of a local cell index." alt="" coords="208,5,419,47"/>
+</map>

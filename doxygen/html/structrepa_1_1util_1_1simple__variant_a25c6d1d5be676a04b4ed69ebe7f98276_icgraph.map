@@ -1,0 +1,5 @@
+<map id="repa::util::simple_variant::fmap" name="repa::util::simple_variant::fmap">
+<area shape="rect" id="node1" title="Returns f(obj) where obj is the held object." alt="" coords="264,39,383,80"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a7d52c0b64811f03b6d3da5f61b39aa06" title="Returns the associated global index of a local or a ghost cell index." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1box__global__index__storage.html#a8ddcbd92172600b02b5961ace3eda8ce" title="Converts a local or ghost index into a global one." alt="" coords="5,71,216,112"/>
+</map>

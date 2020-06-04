@@ -1,0 +1,5 @@
+<map id="repa::grids::diff_variants::SOVolumeComputation" name="repa::grids::diff_variants::SOVolumeComputation">
+<area shape="rect" id="node1" title=" " alt="" coords="216,39,383,80"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1diff__variants_1_1FlowCalculator.html" title=" " alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1diff__variants_1_1BetaValueSetter.html" title=" " alt="" coords="5,71,168,112"/>
+</map>

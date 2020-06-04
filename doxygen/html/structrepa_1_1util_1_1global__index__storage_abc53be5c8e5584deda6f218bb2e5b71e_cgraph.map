@@ -1,0 +1,4 @@
+<map id="repa::util::global_index_storage::as_local_index" name="repa::util::global_index_storage::as_local_index">
+<area shape="rect" id="node1" title="Returns a local cell index of a global cell index." alt="" coords="5,13,209,54"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a7bf12b5a7f978631da073935709b496b" title="Returns the local or ghost index of a global cell index." alt="" coords="257,5,424,61"/>
+</map>

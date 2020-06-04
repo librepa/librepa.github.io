@@ -1,0 +1,5 @@
+<map id="repa::util::simple_variant::is_second" name="repa::util::simple_variant::is_second">
+<area shape="rect" id="node1" title="Returns true iff the object holds an element of the second template parameter type." alt="" coords="172,39,307,80"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1simple__variant.html#aaebafafc53bfad915fa407b74a64fb25" title="Returns the held object as &quot;GetType&quot;." alt="" coords="5,5,124,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1simple__variant.html#a136d94d976975b2cc65cefaca5390ec1" title="Returns true iff the object holds an element of type &quot;CheckType&quot;." alt="" coords="5,71,124,112"/>
+</map>

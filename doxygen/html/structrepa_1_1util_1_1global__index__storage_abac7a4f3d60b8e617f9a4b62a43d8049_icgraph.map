@@ -1,0 +1,4 @@
+<map id="repa::util::global_index_storage::as_ghost_index" name="repa::util::global_index_storage::as_ghost_index">
+<area shape="rect" id="node1" title="Returns a ghost cell index of a global cell index." alt="" coords="205,13,415,54"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a64ddbd8b0d04f979f96daef814da1df3" title="Returns a lambda that resolves global to ghost positions while ensuring that the indices are purely g..." alt="" coords="5,5,157,61"/>
+</map>

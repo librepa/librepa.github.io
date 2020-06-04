@@ -1,0 +1,5 @@
+<map id="repa::grids::KDTreeGrid::repartition" name="repa::grids::KDTreeGrid::repartition">
+<area shape="rect" id="node1" title="Maybe repartitions the grid." alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1ParallelLCGrid.html#aab342f96fcd6c190815b4781b1666c4d" title="Returns the range of local cells." alt="" coords="213,5,388,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1ParallelLCGrid.html#ae158da69087c05fef19a7fbeb6de7465" title="Returns the number of local cells." alt="" coords="436,5,611,47"/>
+</map>

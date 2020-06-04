@@ -1,0 +1,7 @@
+<map id="repa::grids::PSDiffusion" name="repa::grids::PSDiffusion">
+<area shape="rect" id="node1" title="Diffusively load&#45;balanced grid based on Diffusion class." alt="" coords="95,229,256,256"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1Diffusion.html" title="Diffusively load&#45;balanced grid." alt="" coords="104,155,247,181"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1GloMethod.html" title=" " alt="" coords="15,80,170,107"/>
+<area shape="rect" id="node4" href="$structrepa_1_1grids_1_1ParallelLCGrid.html" title="Interface for a parallel linked&#45;cell grid implementation." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node5" href="$structrepa_1_1VariantSetter.html" title="Interface to query and set variants." alt="" coords="194,80,325,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="repa::grids::HybridGPDiff::get_boundary_info" name="repa::grids::HybridGPDiff::get_boundary_info">
+<area shape="rect" id="node1" title="Returns the ghost exchange info." alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1ParallelLCGrid.html#a58f18af8edcb9af86e3db7d2ad6d22af" title="Returns the ghost exchange info." alt="" coords="223,5,397,47"/>
+</map>

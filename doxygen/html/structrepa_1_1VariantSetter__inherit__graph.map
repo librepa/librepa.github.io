@@ -1,0 +1,5 @@
+<map id="repa::VariantSetter" name="repa::VariantSetter">
+<area shape="rect" id="node1" title="Interface to query and set variants." alt="" coords="21,5,151,32"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1Diffusion.html" title="Diffusively load&#45;balanced grid." alt="" coords="15,80,157,107"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1PSDiffusion.html" title="Diffusively load&#45;balanced grid based on Diffusion class." alt="" coords="5,155,167,181"/>
+</map>

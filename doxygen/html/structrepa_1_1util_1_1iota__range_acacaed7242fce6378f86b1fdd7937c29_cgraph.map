@@ -1,0 +1,4 @@
+<map id="repa::util::iota_range::operator[]" name="repa::util::iota_range::operator[]">
+<area shape="rect" id="node1" title="Access a specific element of the range (Although currently not used in repa itself,..." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1iota__range.html#a562cccbc9f55086a7ebaf16825f9b58d" title="Returns the number of integers represented by the range." alt="" coords="193,5,333,47"/>
+</map>

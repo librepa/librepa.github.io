@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structrepa_1_1grids_1_1ParallelLCGrid.html" title="Interface for a parallel linked&#45;cell grid implementation." alt="" coords="5,132,180,159"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1GloMethod.html" title=" " alt="" coords="235,56,390,83"/>
+<area shape="rect" id="node8" href="$structrepa_1_1grids_1_1HybridGPDiff.html" title=" " alt="" coords="228,107,397,133"/>
+<area shape="rect" id="node9" href="$classrepa_1_1grids_1_1KDTreeGrid.html" title=" " alt="" coords="233,157,393,184"/>
+<area shape="rect" id="node10" href="$structrepa_1_1grids_1_1P4estGrid.html" title=" " alt="" coords="238,208,387,235"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1CartGrid.html" title="Regular Cartesian process grid; equally sized boxes, if divisible." alt="" coords="463,5,603,32"/>
+<area shape="rect" id="node4" href="$structrepa_1_1grids_1_1Diffusion.html" title="Diffusively load&#45;balanced grid." alt="" coords="462,208,605,235"/>
+<area shape="rect" id="node6" href="$structrepa_1_1grids_1_1Graph.html" title=" " alt="" coords="470,56,597,83"/>
+<area shape="rect" id="node7" href="$structrepa_1_1grids_1_1GridBasedGrid.html" title="Implements a grid&#45;based load&#45;balancing scheme." alt="" coords="445,107,621,133"/>
+<area shape="rect" id="node5" href="$structrepa_1_1grids_1_1PSDiffusion.html" title="Diffusively load&#45;balanced grid based on Diffusion class." alt="" coords="669,208,831,235"/>
+<area shape="rect" id="node11" href="$structrepa_1_1VariantSetter.html" title="Interface to query and set variants." alt="" coords="247,259,378,285"/>
+</map>

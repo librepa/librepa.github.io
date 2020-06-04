@@ -1,0 +1,9 @@
+<map id="repa::grids::GloMethod" name="repa::grids::GloMethod">
+<area shape="rect" id="node1" title=" " alt="" coords="228,81,383,108"/>
+<area shape="rect" id="node3" href="$structrepa_1_1grids_1_1CartGrid.html" title="Regular Cartesian process grid; equally sized boxes, if divisible." alt="" coords="449,5,589,32"/>
+<area shape="rect" id="node4" href="$structrepa_1_1grids_1_1Diffusion.html" title="Diffusively load&#45;balanced grid." alt="" coords="447,56,590,83"/>
+<area shape="rect" id="node6" href="$structrepa_1_1grids_1_1Graph.html" title=" " alt="" coords="455,107,582,133"/>
+<area shape="rect" id="node7" href="$structrepa_1_1grids_1_1GridBasedGrid.html" title="Implements a grid&#45;based load&#45;balancing scheme." alt="" coords="431,157,607,184"/>
+<area shape="rect" id="node2" href="$structrepa_1_1grids_1_1ParallelLCGrid.html" title="Interface for a parallel linked&#45;cell grid implementation." alt="" coords="5,81,180,108"/>
+<area shape="rect" id="node5" href="$structrepa_1_1grids_1_1PSDiffusion.html" title="Diffusively load&#45;balanced grid based on Diffusion class." alt="" coords="655,56,816,83"/>
+</map>

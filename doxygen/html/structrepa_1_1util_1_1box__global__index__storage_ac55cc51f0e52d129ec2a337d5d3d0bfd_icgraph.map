@@ -1,0 +1,5 @@
+<map id="repa::util::box_global_index_storage::get_canonical_representant" name="repa::util::box_global_index_storage::get_canonical_representant">
+<area shape="rect" id="node1" title="Returns a canonical representation of a 3d cell index." alt="" coords="263,31,461,87"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1box__global__index__storage.html#ad68b9b6f9ec2b89045b30db0e12202bd" title="Returns a ghost index from a 3d cell index." alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1box__global__index__storage.html#ab8fbd78406807ecf5f82d684302af60a" title="Returns a local index from a 3d cell index." alt="" coords="8,71,212,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="repa::grids::GloMethod::cell_neighbor_index" name="repa::grids::GloMethod::cell_neighbor_index">
+<area shape="rect" id="node1" title="Returns the index of a cell neighboring a given cell (by index)." alt="" coords="5,43,160,84"/>
+<area shape="rect" id="node2" href="$structrepa_1_1util_1_1global__index__storage.html#a35cf667db0a067d858af1fc0bc132a76" title="Returns the associated global index of a local cell index." alt="" coords="208,5,419,47"/>
+<area shape="rect" id="node3" href="$structrepa_1_1util_1_1global__index__storage.html#a7bf12b5a7f978631da073935709b496b" title="Returns the local or ghost index of a global cell index." alt="" coords="230,71,397,127"/>
+</map>
